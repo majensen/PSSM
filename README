@@ -1,0 +1,9 @@
+PSSM : classes to model a postion-specific site matrix
+Uses a DBIx::Class based SQLite db for persistence
+
+to install:
+perl Build.PL
+./Build
+./Build test
+./Build install
+
